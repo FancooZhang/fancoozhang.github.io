@@ -126,5 +126,4 @@ Published in: [2021 IEEE International Conference on Bioinformatics and Biomedic
 
 #### 心率变异性（HRV）与脉率变异性（PRV）之间的关系
 众多关于PRV和HRV相关性研究的结果表明，在一定条件（非剧烈运动、非特殊人群等）下，基于PPG的PRV分析可以等同于基于ECG的HRV分析，PRV与HRV的时域参数和频域参数的相关性基本上都在80%之上。
-[参考来源](http://www.menovomed.com/newsv.php?id=496)
 [脉率变异性估计心率变异性的可行性分析](https://wenku.baidu.com/view/1a69905782c4bb4cf7ec4afe04a1b0717ed5b37d.html?_wkts_=1732874723927&bdQuery=%E5%9F%BA%E4%BA%8E%E8%84%89%E6%90%8F%E6%B3%A2%E7%9A%84%E5%BF%83%E7%8E%87%E5%8F%98%E5%BC%82%E6%80%A7%E5%8F%AF%E8%A1%8C%E6%80%A7%E5%88%86%E6%9E%90)
