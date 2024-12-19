@@ -3,7 +3,7 @@ title: Flutter打包web,开启本地服务
 description: 将flutter项目打包web，并开启本地服务在本地预览.
 author: 张帆
 date: 2024-10-05 13:10:00 +0800
-categories: [Blogging, Tutorial]
+categories: [一些学习, Flutter]
 tags: [Flutter]
 # pin: true
 # math: true

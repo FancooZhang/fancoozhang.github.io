@@ -3,7 +3,7 @@ title: Flutter 谷歌登录报错
 description: Flutter开发App使用谷歌登录，显示此应用未经Google验证问题.
 author: 张帆
 date: 2024-10-01 11:33:00 +0800
-categories: [Blogging, Tutorial]
+categories: [一些坑, Flutter]
 tags: [Flutter]
 # pin: true
 # math: true
